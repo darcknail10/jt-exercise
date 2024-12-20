@@ -23,6 +23,8 @@ To get started, clone the project repository from GitHub:
 
 ```bash
 git clone https://github.com/darcknail10/jt-exercise.git
+```
+
 
 ### 2. Install NuGet Packages
 
@@ -31,4 +33,4 @@ Using Visual Studio:
 1. In Solution Explorer, right-click on the project and select Manage NuGet Packages.
 2. Go to the Browse tab, search for System.Text.Json, and install it. This package is necessary for JSON serialization.
 
-### 3. Run Code by pressing the F5
+### 3. Run Code by pressing the F5 - https://localhost:7143/
