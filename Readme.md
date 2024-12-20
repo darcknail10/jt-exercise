@@ -1,6 +1,6 @@
 # Product Order Web Application
 
-This is an ASP.NET Core MVC web application that displays a list of products and orders. The data for products and orders is loaded from `products.json` and `orders.json` files. You can also modify and add some data on the JSON files attached.
+This ASP.NET Core MVC web application displays a list of products and orders. The data for products and orders is loaded from the `products.json` and `orders.json` files. You can also modify and add some data to the attached JSON files.
 
 ## Features
 
@@ -24,3 +24,11 @@ To get started, clone the project repository from GitHub:
 ```bash
 git clone https://github.com/darcknail10/jt-exercise.git
 
+### 2. Install NuGet Packages
+
+Using Visual Studio:
+
+1. In Solution Explorer, right-click on the project and select Manage NuGet Packages.
+2. Go to the Browse tab, search for System.Text.Json, and install it. This package is necessary for JSON serialization.
+
+### 3. Run Code by pressing the F5
