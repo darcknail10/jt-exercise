@@ -33,4 +33,9 @@ Using Visual Studio:
 1. In Solution Explorer, right-click on the project and select Manage NuGet Packages.
 2. Go to the Browse tab, search for System.Text.Json, and install it. This package is necessary for JSON serialization.
 
+Using VS Code:
+
+1. Ctrl+Shift+P -> Nuget Add: then search of Nuget you want to install
+   
+
 ### 3. Run Code by pressing the F5 - https://localhost:7143/
