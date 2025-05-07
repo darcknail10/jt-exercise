@@ -34,6 +34,7 @@ Using Visual Studio:
 2. Go to the Browse tab, search for System.Text.Json, and install it. This package is necessary for JSON serialization.
 
 Using VS Code:
+-- creating MVC format in VS code: dotnet new mvc -n (filename)
 
 1. Ctrl+Shift+P -> Nuget Add: then search of Nuget you want to install
    
